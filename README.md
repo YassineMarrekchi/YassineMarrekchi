@@ -4,7 +4,7 @@ I'm a dedicated and data-driven **Business Analytics** and **Data Science** enth
 
 ## 🚀 Skills & Expertise
 - **Data Analysis & Visualization**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-- **Machine Learning**: Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost
+- **Machine Learning**: Building Models , Hyper-Tuning , Pruning ...
 - **Business Analytics**: Predictive modeling, Competitive analysis, Strategic benchmarking
 - **Digital Marketing**: SEO optimization, Content strategy, Social media planning
 - **Dashboard Development**: Interactive Python dashboards (Plotly, Dash)
