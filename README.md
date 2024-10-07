@@ -7,7 +7,7 @@ I'm a dedicated and data-driven **Business Analytics** and **Data Science** enth
 - **Machine Learning**: Building Models , Hyper-Tuning , Pruning ...
 - **Business Analytics**: Predictive modeling, Competitive analysis, Strategic benchmarking
 - **Digital Marketing**: SEO optimization, Content strategy, Social media planning
-- **Dashboard Development**: Interactive Python dashboards (Plotly, Dash)
+- **Dashboard Development**: Interactive Python dashboards (Plotly, Dash , HvPlot , Panel)
 
 ## 🌟 Notable Projects
 - **WiFi Test House Dashboard**: Developed an interactive Python dashboard analyzing over 150,000 data points, emphasizing occupancy and activity flow at Sagemcom’s WiFi test house.
