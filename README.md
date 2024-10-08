@@ -22,7 +22,6 @@ I'm currently focusing on:
 
 ## 🔗 Let's Connect
 - **LinkedIn**: (https://www.linkedin.com/in/yassinemarrekchi/)
-- **Portfolio**: (https://yassinemarrekchi.super.site)
 - **Email**:(yassinemarrekchi@gmail.com)
 - **Kaggle**:(https://www.kaggle.com/yassinemarrekchi)
 - **GitHub**: Stay tuned for my latest projects and contributions!
